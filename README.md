@@ -17,7 +17,7 @@ Joe Coviello
 Frontend Software Developer
 ---------------------------
 
-Hello, I'm Joe, an avid GitHub user with a passion for programming and web development. I'm here to share my projects, skills, and insights with you. Feel free to explore my repositories and don't hesitate to get in touch if you have any questions or collaboration opportunities.
+Hello, I'm Joe, an avid GitHub user with a passion for programming and web development. I'm here to share my projects, skills, and insights with you. Feel free to explore my repos and don't hesitate to get in touch if you have any questions or collaboration opportunities.
 
 * 🌍  I'm based near Los Angeles
 * 🖥️  See my portfolio at [https://nyteksf.github.io/](http://nyteksf.github.io/)
