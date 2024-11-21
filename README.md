@@ -19,7 +19,7 @@ Frontend Software Developer
 
 Hello, I'm Joe, an avid GitHub user with a passion for programming and web development. I'm here to share my projects, skills, and insights with you. Feel free to explore my repositories and don't hesitate to get in touch if you have any questions or collaboration opportunities.
 
-* 🌍  I'm based in Los Angeles
+* 🌍  I'm based near Los Angeles
 * 🖥️  See my portfolio at [https://nyteksf.github.io/](http://nyteksf.github.io/)
 * ✉️  You can contact me at [email.nytek@gmail.com](mailto:email.nytek@gmail.com)
 * ⚡ Fun fact: You are now being switched into manual breathing mode as you are reading this.
