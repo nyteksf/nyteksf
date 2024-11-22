@@ -8,7 +8,10 @@
 |  |\    |  |  /   /)    |  |    |  .--' |  .   ' .-._)   \\_)  .--' 
 |  | \   |  `-/   /`     |  |    |  `---.|  |\   \\       / `|  |_)  
 `--'  `--'    `--'       `--'    `------'`--' '--' `-----'   `--'    
-  </pre>      
+
+  Turning Ideas into Responsive, User-Friendly Websites
+  https://nyteksf.github.io/ |  email [dot] nytek [at] gmail.com
+   </pre>      
 </div>
 
 Joe Coviello
