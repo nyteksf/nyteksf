@@ -9,7 +9,7 @@
 |  | \   |  `-/   /`     |  |    |  `---.|  |\   \\       / `|  |_)  
 `--'  `--'    `--'       `--'    `------'`--' '--' `-----'   `--'    
   <br>
-  Turning Ideas into Responsive, User-Friendly Websites
+  Turning Ideas Into Responsive, User-Friendly Websites
   https://nyteksf.github.io/ |  email [dot] nytek [at] gmail.com
    </pre>      
 </div>
